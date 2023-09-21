@@ -1,6 +1,8 @@
 # 1. In your on words, describe what a variable is.
+not consistent or havuing a fixed pattern=
 
 # 2. Name three (3) operators we've learned about in class and describe 
+
 # a situation where you would use each one. 
 
 # 3. Describe the difference between camal case and pascal case.
