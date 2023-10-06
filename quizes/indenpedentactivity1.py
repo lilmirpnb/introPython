@@ -19,7 +19,7 @@ print(random_numbers[0])
 
 number_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 for num in number_list:
-    if num % 2 != 0:
+    if num % 2 != 0:,.              
         print(num)
 
 # 4. Fix the shopping cart function.
